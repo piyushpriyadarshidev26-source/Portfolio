@@ -38,7 +38,7 @@ I build **repeatable cloud infrastructure, automated deployment pipelines and se
 
 ---
 
-# ⚡ Recruiter Snapshot
+# ⚡ Engineering Profile
 
 <div align="center">
 
